@@ -22,6 +22,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![](https://github.com/Pakurii/kodluyoruzilkrepo/blob/main/gıthubilkrepo.png)
+![](https://github.com/Pakurii/kodluyoruzilkrepo/blob/main/ilkrepo.png)
 
 [patika.dev](www.patika.dev)
